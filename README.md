@@ -17,9 +17,9 @@
 ✅  - Documentar o swagger com o swaggerComments
 ✅  - Adicionar a classe program o swagger doc
 ✅  - Adicionar ao projeto duas tags para funcionamento do swaggerComments:
-<GenerateDocumentationFile>true</GenerateDocumentationFile>
-<NoWarn>$(NoWarn);1591</NoWarn>
 <p>
+  Tag GenerateDocumentationFile como true
+  Tag NoWarn como (NoWarn);1591
   obs: O nome do arquivo xml precisa ser igual o nome do projeto + a extensão .xml
 </p>
 ✅ - Refazer alguns passos anteriores para a criação do endpoint GET, para pegar a lista de dados básicos
