@@ -1,5 +1,6 @@
 <h1>Cadastro de clientes versão básica</h1>
 <h3>Esta versão está sendo criada para trabalhar alguns pontos específicos da arquitetura de uma aplicação real, por isso é uma versão simplista</h3>
+<pre>
 ✅  - Criar classe de contexto para conexão no banco de dados
 ✅  - Configurar a string de conexão
 ✅  - Criar classe de dados básicos
@@ -25,3 +26,4 @@
 ✅ - Criar classe dto create e response
 ✅ - Criar classe Mapper para mapeamento dos dtos
 ✅ - Mudar os retornos e os parâmetros dos métodos para retornar e responder com os dtos criados
+</pre>
